@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nowimseeingcashflow
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning Django, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Go, C++, Python
+- 💞️ I’m looking to collaborate on military
+- 📫 How to reach me - IG, Naverblog
 
 <!---
 nowimseeingcashflow/nowimseeingcashflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
