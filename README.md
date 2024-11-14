@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @nowimseeingcashflow
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Go, C++, Python
-- 💞️ I’m looking to collaborate on military
-- 📫 How to reach me - IG, Naverblog
+- 👋 Hi, I’m Kim Jimin
+- 👀 I’m interested in FE, BE, etc..
+- 🌱 I’m currently learning Go, C++, React, Next.js
+
+- 📫 How to reach me
+  - happyphjm1@naver.com
+  - IG @gemini.aqr
 
 <!---
 nowimseeingcashflow/nowimseeingcashflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
