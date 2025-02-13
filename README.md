@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kim Jimin
-- 👀 I’m interested in FE, BE, etc..
+- 👀 I’m interested in Frontend, AI, Backend, etc..
 - 🌱 I’m currently learning Go, C++, React, Next.js
 
 - 📫 How to reach me
